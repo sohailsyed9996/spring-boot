@@ -4,6 +4,12 @@ root=true
 indent_style = tab
 indent_size = 4
 continuation_indent_size = 8
+public class Exercise1 {
+
+ public static void main(String[] args) {
+  System.out.println("Hello");
+ } 
+}
 
 [*.xml]
 indent_style = tab
